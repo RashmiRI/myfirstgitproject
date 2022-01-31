@@ -1,2 +1,2 @@
-I am adding a file
+I am adding a new file to repo named 'myfirstgitproject'
 This is a sample file
